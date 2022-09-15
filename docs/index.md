@@ -1,4 +1,6 @@
-# Description
+### 25 boulevard de Belleville: 2 Pieces 43,5 m²  avec balcon
+![](images/salon/IMG_1755.jpeg)
+### Description
 
 Au pied du métro Couronnes, grand 2 pièces de 43,5 m² avec balcon sans vis-à-vis.  
 L'appartement est très lumineux et exposé plein sud au 6ème étage avec ascenceurs.  
@@ -26,5 +28,6 @@ Pour information, un appartement identique a été vendu 385 000 euros au 8ème 
 ### Contact:  
 Premier contact par mail uniquement: 25bvbelleville@gmail.com  
 
-![](images/plan/3d_1.png) 
+![](images/plan/3d_1.png)  
+
 ![](images/plan/plan.png) 
