@@ -1,0 +1,18 @@
+site_name: 2 Pieces 43,5 m²  avec balcon 25 boulevard de Belleville
+
+nav:
+  - Description: index.md
+  - Photos: 
+    - Salon: salon.md
+    - Chambre: chambre.md
+    - Balcon: balcon.md
+    - Cuisine: cuisine.md
+    - Salle de bain: sdb.md
+    - Sanitaires: wc.md
+    - Entrée: entree.md
+
+Contacts:
+  contact.md
+
+theme:
+  name: 'minty'
