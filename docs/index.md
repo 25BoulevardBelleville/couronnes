@@ -12,7 +12,7 @@ Eau chaude et chauffage collectif.
 Charges annuelles 2400 euros.  
 
 
-### Prix 375 000 euros:
+### Prix 475 000 euros:
 Vente de particuliers à particuliers, pas de frais d'agences.  
 Pour information, un appartement identique a été vendu 385 000 euros au 8ème étage au mois de Juin 2022.  
 ([voir la fiche](plaza.pdf))
